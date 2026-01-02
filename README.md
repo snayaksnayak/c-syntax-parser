@@ -1,4 +1,4 @@
-compiler
+c-syntax-parser
 ========
 
-Syntax Compiler for C language
+Syntax Parser for C language
