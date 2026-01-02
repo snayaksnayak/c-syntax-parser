@@ -1,4 +1,4 @@
 compiler
 ========
 
-a C compiler
+a C syntax compiler
